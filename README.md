@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/borja-romero-mart%c3%adnez-1184511a6" target="blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/borja-romero-mart%C3%ADnez/" target="blank">Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
