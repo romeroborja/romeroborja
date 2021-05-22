@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Borja</h1>
 <h3 align="center">Un desarrollador de software apasionado</h3>
 
+
 - 🔭 Estoy trabajando actualmente en **análisis y visualización de datos**
 
 - 🌱 Actualmente estoy aprendiendo **NodeJs**
