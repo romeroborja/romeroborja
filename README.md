@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Borja</h1>
-<h3 align="center">A passionate software developer</h3>
+<h1 align="center">Hola 👋, me llamo Borja</h1>
+<h3 align="center">Un desarrollador de software apasionado</h3>
 
-- 🔭 I’m currently working on **data analysis and visualization**
+- 🔭 Estoy trabajando actualmente en **análisis y visualización de datos**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 Actualmente estoy aprendiendo **NodeJs**
 
-- 💬 Ask me about **Java, Python and SQL**
+- 💬 Pregúntame sobre **Java, Python and SQL**
 
-- 📫 How to reach me **romeroborja96@gmail.com**
+- 📫 Como contactarme: **romeroborja96@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/borja-romero-mart%C3%ADnez/" target="blank">Linkedin</a>
 </p>
