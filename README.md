@@ -9,7 +9,7 @@
 
 - 📫 Como contactarme: **romeroborja96@gmail.com**
 
-- ⚡ Conecta conmigo: <a href="https://www.linkedin.com/in/borja-romero-mart%C3%ADnez/" target="blank">Linkedin</a>
+- ⚡ Conecta conmigo: **<a href="https://www.linkedin.com/in/borja-romero-mart%C3%ADnez/" target="blank">Linkedin</a>**
 
 <h3 align="left">Lenguajes:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
