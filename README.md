@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **Java, Python and JavaScript**
+- 💬 Ask me about **Java, Python and SQL**
 
 - 📫 How to reach me **romeroborja96@gmail.com**
 
