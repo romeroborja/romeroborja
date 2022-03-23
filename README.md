@@ -12,7 +12,8 @@
 - ⚡ Contact me: **<a href="https://www.linkedin.com/in/borja-romero-mart%C3%ADnez/" target="blank">Linkedin</a>**
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://github.com/mianfg?tab=repositories&amp;q=&amp;type=&amp;language=python"><img src="https://camo.githubusercontent.com/cc77f38c839f7fa6d424071dad288dcf00acf4b4f3b66183658a23d021e87b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373661622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/python-%233776ab.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
