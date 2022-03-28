@@ -1,5 +1,9 @@
+<head><script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+
 <h1 align="center">Hi 👋, my name is Borja</h1>
 <h3 align="center">A passionate software developer</h3>
+<i class="fas fa-band-aid"></i>
 
 - 🔭 I am currently working as a **web developer**
 - 🌱 I am currently learning **Php** and **Javascript**
